@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/home/nvidia/Desktop/yolo_psdk/samples/sample_c++/platform/linux/manifold2",
+    "cmake.configureOnOpen": true
+}
