@@ -1,0 +1,41 @@
+# 忽略 build 文件夹
+build/
+dist/
+bin/
+
+# 如果你用的是 CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+
+# 其他常见的需要忽略的文件
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# 如果是 Python 项目
+__pycache__/
+*.pyc
+*.pyo
+
+# 如果是 Node.js 项目
+node_modules/
+npm-debug.log*
+
+# 如果是 Java 项目
+target/
+*.class
+*.jar
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
